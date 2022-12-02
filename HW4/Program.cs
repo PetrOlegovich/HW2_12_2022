@@ -31,3 +31,5 @@ for (int i = 0; i < array.Length; i++)
 Console.WriteLine("["+string.Join(", ", array)+"]");
 
 Console.WriteLine($" max = {max}; min = {min}; \n разница : {Math.Round((max-min),2)}");
+
+// я не понял ка решать эту задачу , мне помогал студент Дмитрий. с его помощью решил. теперь понимаю больше.
