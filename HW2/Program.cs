@@ -22,4 +22,4 @@ for (int i = 0; i < array.Length; i++)
         count++;
     }
 }
-Console.WriteLine("количество чисел в отрезке [10, 99] : "+ count);
+Console.WriteLine("количество чисел  в отрезке [10, 99] : "+ count);
